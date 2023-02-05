@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    
+}
+
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://wallpapercave.com/dwp2x/wp2666764.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://wallpapercave.com/dwp2x/wp3212852.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: table;
+    background-attachment: fixed;
+}
+.box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://media.istockphoto.com/id/154894958/photo/amber-fort-jaipur-india.jpg?s=612x612&w=0&k=20&c=gCNirw30cmkl7clV30l8mcbmxOk-IAoT5ACxHRBQsdA=);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: table;
+    background-attachment: fixed;
+}
